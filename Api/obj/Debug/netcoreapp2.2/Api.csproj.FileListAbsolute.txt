@@ -1,0 +1,16 @@
+C:\Users\tadri\source\repos\Template\Api\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\tadri\source\repos\Template\Api\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\tadri\source\repos\Template\Api\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\tadri\source\repos\Template\Api\bin\Debug\netcoreapp2.2\Api.deps.json
+C:\Users\tadri\source\repos\Template\Api\bin\Debug\netcoreapp2.2\Api.runtimeconfig.json
+C:\Users\tadri\source\repos\Template\Api\bin\Debug\netcoreapp2.2\Api.runtimeconfig.dev.json
+C:\Users\tadri\source\repos\Template\Api\bin\Debug\netcoreapp2.2\Api.dll
+C:\Users\tadri\source\repos\Template\Api\bin\Debug\netcoreapp2.2\Api.pdb
+C:\Users\tadri\source\repos\Template\Api\obj\Debug\netcoreapp2.2\Api.csprojAssemblyReference.cache
+C:\Users\tadri\source\repos\Template\Api\obj\Debug\netcoreapp2.2\Api.RazorAssemblyInfo.cache
+C:\Users\tadri\source\repos\Template\Api\obj\Debug\netcoreapp2.2\Api.RazorAssemblyInfo.cs
+C:\Users\tadri\source\repos\Template\Api\obj\Debug\netcoreapp2.2\Api.AssemblyInfoInputs.cache
+C:\Users\tadri\source\repos\Template\Api\obj\Debug\netcoreapp2.2\Api.AssemblyInfo.cs
+C:\Users\tadri\source\repos\Template\Api\obj\Debug\netcoreapp2.2\Api.RazorTargetAssemblyInfo.cache
+C:\Users\tadri\source\repos\Template\Api\obj\Debug\netcoreapp2.2\Api.dll
+C:\Users\tadri\source\repos\Template\Api\obj\Debug\netcoreapp2.2\Api.pdb
